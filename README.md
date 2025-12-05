@@ -1,7 +1,4 @@
-# Because I no longer have access to a Volkswagen ID vehicle, development on this integration has been discontinued.
-
-
-
+# Personal fork for use in HACS, do not use this repo otherwise.
 
 # Volkswagen We Connect ID [ONLY FOR EUROPE]
 _Volkswagen We Connect ID sensor provides statistics from the Volkswagen ID Api thru [WeConnect-python lib](https://pypi.org/project/weconnect/)._
